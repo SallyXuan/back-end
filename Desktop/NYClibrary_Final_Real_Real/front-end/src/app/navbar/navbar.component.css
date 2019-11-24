@@ -21,12 +21,7 @@
 }
 
 .mat-toolbar-row .mat-button {
-    background-color: #B92E10;
+    background-color: transparent;
     font-size: 20px;
     
-}
-
-.bg {
-
-  background-color: red;
 }
